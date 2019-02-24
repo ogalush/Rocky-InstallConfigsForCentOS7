@@ -10,5 +10,5 @@ Linux ryunosuke.localdomain 3.10.0-957.5.1.el7.x86_64 #1 SMP Fri Feb 1 14:54:57 
 ```
 
 ## インストール手順
-以下のドキュメントを参照してください.
+以下のドキュメントを参照してください.  
 [Install OpenStack Rocky for CentOS7](https://github.com/ogalush/Documents/blob/master/InstallRockyForCentOS7.md)
